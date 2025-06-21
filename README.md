@@ -10,4 +10,4 @@ This project uses multiple statistical methods to find the best features and pre
 ## Files
 - `FinalProject.Rmd`: full modeling pipeline
 -  `Life_Expectancy_Project.pdf`: written report
--  `life_map.html`: HTML file containing interactive map
+-  `life_map.html`: HTML file containing interactive map (viewable [here](https://karla-corn.github.io/Life/life_map.html)
